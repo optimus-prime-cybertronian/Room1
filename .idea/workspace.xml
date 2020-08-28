@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0513a445-d439-4338-b987-dbebda209a60" name="Default Changelist" comment="" />
+    <list default="true" id="0513a445-d439-4338-b987-dbebda209a60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebChat1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,11 +48,23 @@
       <workItem from="1598012797674" duration="5727000" />
       <workItem from="1598070924939" duration="882000" />
       <workItem from="1598519462275" duration="54000" />
+      <workItem from="1598603528100" duration="536000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1598519513942">
@@ -49,6 +72,14 @@
     </state>
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1598519513942" />
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598071650392" />
+    <state x="647" y="330" width="358" height="204" key="Github.ShareDialog" timestamp="1598603562061">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="647" y="330" width="358" height="204" key="Github.ShareDialog/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1598603562061" />
+    <state x="518" y="137" key="Github.UntrackedFilesDialog" timestamp="1598603601126">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="518" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1598603601126" />
     <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598011967616">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
